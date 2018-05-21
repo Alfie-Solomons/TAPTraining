@@ -19,7 +19,7 @@ namespace TAP_Example___Basic
 		private async Task TestAsync()
 		{
 			// Running on the calling thread...
-			var delayTime = 5000;
+			var delayTime = 7000;
 
 			Console.WriteLine($"{DateTime.Now} ID: {Thread.CurrentThread.ManagedThreadId} Calling WaitABitAsync synchronously");
 			var result = WaitABitAsync(delayTime).Result;
