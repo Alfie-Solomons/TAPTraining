@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 namespace TAP_Example___Basic
 {
 	/// <summary>
-	/// The Branch version
+	/// The second feature change
 	/// </summary>
 	public class Program
 	{
