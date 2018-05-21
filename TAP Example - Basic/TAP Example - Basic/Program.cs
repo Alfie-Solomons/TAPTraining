@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 namespace TAP_Example___Basic
 {
 	/// <summary>
-	/// The Master version
+	/// The merged version
 	/// </summary>
 	public class Program
 	{
